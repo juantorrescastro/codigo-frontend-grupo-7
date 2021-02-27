@@ -1,31 +1,39 @@
-#nombre{
-    
-    font-size: 40px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    
-    color:#0000ff;
-    text-align: center;
+#nombre {
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 
+  color: #0000ff;
+  text-align: center;
 }
 
-.clase1{
-    width: 240px;
-    background-color: yellow;
-    font-size: 30px;
+.clase1 {
+
+  width: 240px;
+  background-color: yellow;
+  font-size: 30px;
 }
 
-
-.clase2{
-    width: 840px;
-    background-color: rgb(13, 221, 176);
-    font-size: 20px;
+.clase2 {
+  width: 840px;
+  background-color: rgb(13, 221, 176);
+  font-size: 20px;
 }
 
+#pie {
+  background-color: rgb(93, 7, 173);
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
 
-#pie{
-    background-color: rgb(93, 7, 173);
-    font-size: 20px;
-    color:white;
-    text-align: center;
+.input-estilos
+{
+background-color: blue;
+caret-color: red;
+color:white
+}
 
+img{
+  border-radius: 50%;
+  height: 350px;
 }
