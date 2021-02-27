@@ -33,7 +33,25 @@ caret-color: red;
 color:white
 }
 
+
+
+img:hover{
+  text-align: right;
+  height: 400px;
+}
+
+
 img{
   border-radius: 50%;
-  height: 350px;
+  /*height: 100px;*/
+}
+
+
+
+form>label+input{
+  font-size: 100px;
+}
+
+body {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/691/170/464/fondos-de-pantalla-color-azul-abstract-wallpaper-preview.jpg");
 }
