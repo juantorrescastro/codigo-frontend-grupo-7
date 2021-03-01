@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>Uso de las nuevas etiquetas en HTML5</title>
+
+    <script lang="javascript">
+        var c=document.getElementById("graficos");
+        var ctx = c.getContext("2d");
+        ctx.fillStyle="green";
+        ctx.fillRect(10,20,10,20);
+    </script>
+    
+    <canvas id="canvas">
+        var canvas = document.getElementById("canvas");
+        var ctx = canvas.getContext("2d");
+        ctx.fillStyle = "green";
+        ctx.fillRect(10, 10, 100, 100);
+        
+        // Rellenar el canvas completo
+        // ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    </canvas>
+
+</head>
+<body>
+    <p align="center">Ejemplo de canvas</p>
+    <canvas id="graficos"  style="border: 2px solid blueviolet;">Su navegador no acepta Canvas</canvas>
+
+
+
+
+</body>
+</html>
