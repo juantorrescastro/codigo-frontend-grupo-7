@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+#texto-color{
+    font-weight: bold;
+    color: darkblue;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40;
+}
+
+ul{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40;
+}
+
+
+#lista1{
+    color: rgb(214, 21, 63);
+}
+
+#lista2{
+    color: rgb(23, 74, 184);
+}
+
+#lista3{
+    color: rgb(28, 156, 56);
+}
+
+#lista4{
+    color: rgb(189, 238, 13);
+}
+
+#lista5{
+    color: rgb(102, 24, 138);
+}
+
+#texto-en-italica{
+    font-style: italic;
+}
+
+
+#autor{
+    font-weight: bold;
+}
+
+
+.estilo-de-letra{
+    font-family: 'Poppins', sans-serif;
+    }
+
+.item4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 100;
+}
+
+
+.parrafo1{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(214, 21, 63);
+}
+
+.parrafo2{
+    font-family: 'Recursive', sans-serif;
+    color: rgb(28, 3, 117);
+}
+
+.parrafo3{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgb(5, 70, 45);
+}
+
+.parrafo4{
+    font-family: 'Anton', sans-serif;
+    color: rgb(180, 92, 19);
+}
+
+.parrafo1,.parrafo2,.parrafo3,.parrafo4{
+    font-size: xx-large;
+}

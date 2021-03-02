@@ -1,0 +1,39 @@
+header{
+ background-color: aqua;   
+ text-align: center;
+}
+
+
+
+.foto-perfil{
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 25%;
+}
+
+.foto-banner{
+    max-width: 1200px;
+    max-height: 300px;
+    
+}
+
+a{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.box{
+    text-align: center;
+    display: inline-flex;
+}
+
+.descripcion{
+    max-width: 70%;
+
+}
+
+
+.frase{
+    font-weight: bolder;
+}
+

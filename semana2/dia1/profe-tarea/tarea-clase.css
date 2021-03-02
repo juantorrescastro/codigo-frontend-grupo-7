@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap')
+
+
+#nombre{
+    color: aquamarine
+}
+
+#color1{
+color:blue;
+
+}
+
+
+#color2{
+color: red;
+}
+
+
+#color3{
+color:yellow;
+
+}
+
+
+#color4{
+color:green;
+}
+
+#color5{
+    color:blueviolet
+}
+
+
+.cancion1{
+
+    font-family: 'DotGothic16', sans-serif;
+}
+
+
+#parrafo3{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#parrafo4{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+sub{
+    color:darkgrey;
+}
+
+
+#primer-nombre{
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#segundo-nombre{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+
+#primer-apellido{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+
+#segundo-apellido{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+
+.contenedor{
+    display:inline-flex;
+}
