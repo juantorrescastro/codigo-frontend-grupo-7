@@ -1,0 +1,34 @@
+body {
+  background-color: lightskyblue;
+}
+
+#primer-parrafo {
+  background-color: red;
+  max-width: 50%;
+}
+
+#segundo-parrafo {
+  background-color: green;
+  opacity: 0.5;
+}
+
+#tercer-parrafo {
+  background-color: blue;
+  opacity: 20%;
+}
+
+#cuarto-parrafo {
+  background: rgba(35, 128, 6, 0.4);
+}
+
+#contenedor {
+  height: 400px;
+  width: 350px;
+
+  background-image: url("https://www.programaenlinea.net/wp-content/uploads/2020/08/react-native.jpg");
+  background-size: contain ; /*cover*/
+  background-repeat: no-repeat;
+ /* background-position: ;*/
+}
+
+

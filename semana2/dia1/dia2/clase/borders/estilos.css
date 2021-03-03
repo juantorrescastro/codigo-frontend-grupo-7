@@ -1,0 +1,46 @@
+#texto-borde-puntitos{
+    border-style: dotted; /** dotted es punteado*/
+}
+
+
+#texto-borde-lineas{
+    border-style: dashed; /** dotted es punteado*/
+}
+
+
+
+#texto-borde-solido{
+    border-style: solid; /** dotted es punteado*/
+}
+
+
+
+#texto-borde-doble{
+    border-style: double; /** dotted es punteado*/
+}
+
+input{
+    border:none;
+    background-color: blue;
+}
+
+h1{
+    border-style: outset;
+}
+
+#texto-borde-inset{
+    border-style: inset;
+}
+
+
+#texto-multiborder{
+    border-style: dotted dashed solid double; /* arriba dercha abajo  izquierda*/
+}
+
+#tarea-borde{
+    border-style: double dashed dashed dotted; 
+}
+
+#texto-borde-multiple4{
+    border-style: dotted double dotted double; 
+}
