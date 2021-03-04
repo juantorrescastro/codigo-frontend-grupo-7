@@ -1,0 +1,32 @@
+#gradiente-desde-linear-desde-izquierda-hacia-derecha{
+    height: 250px;
+    width: 250px;
+
+    background-image: linear-gradient(to right,red, yellow);
+    color:red;
+    font-weight: bolder;
+
+}
+
+
+img{
+    transform: rotate(180deg);
+}
+
+#gris
+{
+    filter:grayscale(100%);
+    border-radius: 20%;
+    transform: skewY(-45deg);
+}
+
+#blur
+{
+    filter:blur(2px);
+    
+}
+
+
+#centrado{
+    text-align: center;
+}
