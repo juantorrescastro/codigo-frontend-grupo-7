@@ -1,0 +1,45 @@
+*{
+    margin:0;
+}
+
+#contenedor-horizontal{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-between;
+}
+
+#parrafo{
+    font-size: xx-large;
+    font-weight: bolder;
+    color:white;
+    margin-top:35px;
+}
+
+#imagen{
+width:100px;
+height: auto;
+margin:10px;
+}
+
+nav{
+    margin-top: 40px;
+    margin-right: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color:white;
+    padding: 5px;
+    font-size: large;
+}
+
+#navbar{
+    display:flex;
+    justify-content: space-between;
+}
+
+#contenedor-vertical{
+    display:flex;
+    flex-direction: column;
+}

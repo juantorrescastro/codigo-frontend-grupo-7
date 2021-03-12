@@ -1,0 +1,32 @@
+#contenedor-horizontal{
+    display:flex;
+    flex-direction: row;
+    background-color: teal;
+}
+
+#contenedor-horizontal-2{
+    display:flex;
+    flex-direction: row;
+    background-color: royalblue;
+    justify-content: flex-end;
+}
+
+#contenedor-horizontal-header{
+    display:flex;
+    flex-direction: row;
+    background-color: teal;
+}
+
+#contenedor-vertical{
+    display:flex;
+    flex-direction: column;
+    background-color: yellow;
+}
+
+.elemento{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: tomato;
+
+}
