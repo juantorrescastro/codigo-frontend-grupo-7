@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    align-content: flex-end;
+    width:100%;
+}
+.header{
+    width: 24px;
+    height: auto;
+}
+
+#boton{
+    background-color: blue;
+    border-radius: 8%;
+    color:white;
+}
+
+a{
+    margin-right: 15px;
+    margin-top: 5px;
+    font-size: 13px;
+    
+
+}
